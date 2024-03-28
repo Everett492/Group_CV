@@ -29,7 +29,8 @@
         ```
 
 2. ResNet 34 Architecture:
-    ![ResNet34](./image_note/ResNet34.png)
+
+![ResNet34](./image_note/ResNet34.png)
 
 ## PyTorch Version
 

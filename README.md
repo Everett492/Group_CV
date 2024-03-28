@@ -895,6 +895,7 @@
         ```
 
     - ResNet 34 Architecture:
+
     ![ResNet34](./image_note/ResNet34.png)
 
 2. PyTorch Version: [resnet.py (Different scale of ResNet included)](https://github.com/weiaicunzai/pytorch-cifar100/blob/master/models/resnet.py)
