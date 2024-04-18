@@ -369,7 +369,6 @@
 ## Addition: Dataloader
 
 1. Reference: [Dataloader](https://github.com/weiaicunzai/pytorch-cifar100/tree/master)
-2. Code analysis:
 
 ## Transformer
 
@@ -1207,3 +1206,10 @@
     ```text
     ln -snf new_source destination
     ```
+
+## JCLIP (Jittor Version of CLIP)
+
+Reference: [open-clip](https://github.com/mlfoundations/open_clip)
+Original Paper: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
+
+### Theoretical Part
